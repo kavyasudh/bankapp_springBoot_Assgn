@@ -1,0 +1,68 @@
+INFO  | 2020-12-02 15:26:24 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2020-12-02 15:26:24 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+INFO  | 2020-12-02 15:26:24 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+INFO  | 2020-12-02 15:26:27 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+INFO  | 2020-12-02 15:26:31 | [main] util.Version (Version.java:27) - HV000001: Hibernate Validator 5.1.0.Final
+INFO  | 2020-12-02 15:29:37 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2020-12-02 15:29:37 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+INFO  | 2020-12-02 15:29:38 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+INFO  | 2020-12-02 15:29:39 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+INFO  | 2020-12-02 15:29:41 | [main] util.Version (Version.java:27) - HV000001: Hibernate Validator 5.1.0.Final
+WARN  | 2020-12-02 15:29:44 | [main] spi.SqlExceptionHelper (SqlExceptionHelper.java:129) - SQL Error: 1146, SQLState: 42S02
+ERROR | 2020-12-02 15:29:44 | [main] spi.SqlExceptionHelper (SqlExceptionHelper.java:131) - Table 'bankapp1.account_table' doesn't exist
+INFO  | 2020-12-02 15:32:59 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2020-12-02 15:32:59 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+INFO  | 2020-12-02 15:32:59 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+INFO  | 2020-12-02 15:33:00 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+INFO  | 2020-12-02 15:33:01 | [main] util.Version (Version.java:27) - HV000001: Hibernate Validator 5.1.0.Final
+INFO  | 2020-12-02 15:33:56 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2020-12-02 15:33:56 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+INFO  | 2020-12-02 15:33:56 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+INFO  | 2020-12-02 15:33:57 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+INFO  | 2020-12-02 15:33:59 | [main] util.Version (Version.java:27) - HV000001: Hibernate Validator 5.1.0.Final
+INFO  | 2020-12-03 09:52:25 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2020-12-03 09:52:25 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+INFO  | 2020-12-03 09:52:25 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+INFO  | 2020-12-03 09:52:32 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+INFO  | 2020-12-03 09:52:37 | [main] util.Version (Version.java:27) - HV000001: Hibernate Validator 5.1.0.Final
+INFO  | 2020-12-03 16:38:33 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2020-12-03 16:38:33 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+INFO  | 2020-12-03 16:38:34 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+INFO  | 2020-12-03 16:38:36 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+INFO  | 2020-12-03 16:38:38 | [main] util.Version (Version.java:27) - HV000001: Hibernate Validator 5.1.0.Final
+WARN  | 2020-12-03 16:38:43 | [main] spi.SqlExceptionHelper (SqlExceptionHelper.java:129) - SQL Error: 1062, SQLState: 23000
+ERROR | 2020-12-03 16:38:43 | [main] spi.SqlExceptionHelper (SqlExceptionHelper.java:131) - Duplicate entry '736917318973' for key 'UK_i3sxi1hdqxup3bigvx7yeqpcy'
+INFO  | 2020-12-03 21:50:12 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2020-12-03 21:50:12 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+INFO  | 2020-12-03 21:50:12 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+WARN  | 2020-12-03 21:50:14 | [main] internal.JdbcEnvironmentInitiator (JdbcEnvironmentInitiator.java:132) - HHH000342: Could not obtain connection to query metadata : Unknown database 'bankapp1'
+INFO  | 2020-12-03 21:50:14 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+INFO  | 2020-12-03 21:50:14 | [main] internal.LobCreatorBuilderImpl (LobCreatorBuilderImpl.java:63) - HHH000422: Disabling contextual LOB creation as connection was null
+INFO  | 2020-12-03 21:50:16 | [main] util.Version (Version.java:27) - HV000001: Hibernate Validator 5.1.0.Final
+WARN  | 2020-12-03 21:50:17 | [main] spi.SqlExceptionHelper (SqlExceptionHelper.java:129) - SQL Error: 1049, SQLState: 42000
+ERROR | 2020-12-03 21:50:17 | [main] spi.SqlExceptionHelper (SqlExceptionHelper.java:131) - Unknown database 'bankapp1'
+WARN  | 2020-12-03 21:50:17 | [main] support.AbstractApplicationContext (AbstractApplicationContext.java:559) - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'accountDaoImpl': Unsatisfied dependency expressed through field 'factory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sf' defined in class path resource [model-config.xml]: Invocation of init method failed; nested exception is org.hibernate.exception.SQLGrammarException: Unable to open JDBC Connection for DDL execution
+INFO  | 2020-12-03 21:53:16 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2020-12-03 21:53:16 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+INFO  | 2020-12-03 21:53:16 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+INFO  | 2020-12-03 21:53:17 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+INFO  | 2020-12-03 21:53:18 | [main] util.Version (Version.java:27) - HV000001: Hibernate Validator 5.1.0.Final
+INFO  | 2020-12-04 09:56:18 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2020-12-04 09:56:18 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+INFO  | 2020-12-04 09:56:18 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+INFO  | 2020-12-04 09:56:19 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+INFO  | 2020-12-04 09:56:21 | [main] util.Version (Version.java:27) - HV000001: Hibernate Validator 5.1.0.Final
+WARN  | 2020-12-04 09:56:23 | [main] spi.SqlExceptionHelper (SqlExceptionHelper.java:129) - SQL Error: 1062, SQLState: 23000
+ERROR | 2020-12-04 09:56:23 | [main] spi.SqlExceptionHelper (SqlExceptionHelper.java:131) - Duplicate entry '736917318973' for key 'UK_i3sxi1hdqxup3bigvx7yeqpcy'
+INFO  | 2020-12-04 09:57:32 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2020-12-04 09:57:32 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+INFO  | 2020-12-04 09:57:32 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+INFO  | 2020-12-04 09:57:33 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+INFO  | 2020-12-04 09:57:34 | [main] util.Version (Version.java:27) - HV000001: Hibernate Validator 5.1.0.Final
+WARN  | 2020-12-04 09:57:35 | [main] spi.SqlExceptionHelper (SqlExceptionHelper.java:129) - SQL Error: 1062, SQLState: 23000
+ERROR | 2020-12-04 09:57:35 | [main] spi.SqlExceptionHelper (SqlExceptionHelper.java:131) - Duplicate entry '736917318973' for key 'UK_i3sxi1hdqxup3bigvx7yeqpcy'
+INFO  | 2020-12-04 09:58:07 | [main] hibernate.Version (Version.java:45) - HHH000412: Hibernate Core {5.2.9.Final}
+INFO  | 2020-12-04 09:58:07 | [main] cfg.Environment (Environment.java:213) - HHH000206: hibernate.properties not found
+INFO  | 2020-12-04 09:58:07 | [main] java.JavaReflectionManager (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+INFO  | 2020-12-04 09:58:08 | [main] dialect.Dialect (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+INFO  | 2020-12-04 09:58:09 | [main] util.Version (Version.java:27) - HV000001: Hibernate Validator 5.1.0.Final
